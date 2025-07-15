@@ -47,10 +47,10 @@ Dataset ini berisi gambar-gambar CCTV yang digunakan untuk klasifikasi gender. G
 
 | No | Tugas | Deskripsi | Deliverable |
 |----|-------|-----------|-------------|
-| 1 | **Pencari Data & Setup Kaggle** | - Mencari 1 contoh citra CCTV ber-noise (dari dataset/simulasi)<br>- Menyiapkan notebook Kaggle<br>- Memastikan semua library tersedia (OpenCV, NumPy, Matplotlib, dll) | - Notebook Kaggle yang sudah di-setup<br>- Sample citra ber-noise<br>- Import library yang dibutuhkan |
-| 2 | **Implementasi Filter (Mean & Median)** | - Implementasi Mean Filter pada citra<br>- Implementasi Median Filter pada citra<br>- Menampilkan perbandingan citra sebelum & sesudah filtering<br>- Visualisasi hasil dengan matplotlib | - Kode implementasi Mean Filter<br>- Kode implementasi Median Filter<br>- Visualisasi before/after comparison |
-| 3 | **Implementasi Filter (Gaussian & Eksplorasi)** | - Implementasi Gaussian Filter<br>- Eksplorasi parameter sigma yang berbeda<br>- Menampilkan perbandingan citra sebelum & sesudah filtering<br>- Visualisasi hasil dengan berbagai parameter | - Kode implementasi Gaussian Filter<br>- Eksperimen dengan berbagai parameter<br>- Visualisasi hasil filtering |
-| 4 | **Analisis & Dokumentasi Laporan** | - Membandingkan hasil semua filter<br>- Menganalisis kelebihan & kekurangan setiap metode<br>- Membuat dokumentasi lengkap<br>- Kesimpulan dan rekomendasi | - Laporan analisis perbandingan<br>- Tabel kelebihan/kekurangan<br>- Dokumentasi hasil<br>- Kesimpulan |
+| 1 | **(Ahmad Nugrahadi)Pencari Data & Setup Kaggle** | - Mencari 1 contoh citra CCTV ber-noise (dari dataset/simulasi)<br>- Menyiapkan notebook Kaggle<br>- Memastikan semua library tersedia (OpenCV, NumPy, Matplotlib, dll) | - Notebook Kaggle yang sudah di-setup<br>- Sample citra ber-noise<br>- Import library yang dibutuhkan |
+| 2 | **(Iqbal Maulana)Implementasi Filter (Mean & Median)** | - Implementasi Mean Filter pada citra<br>- Implementasi Median Filter pada citra<br>- Menampilkan perbandingan citra sebelum & sesudah filtering<br>- Visualisasi hasil dengan matplotlib | - Kode implementasi Mean Filter<br>- Kode implementasi Median Filter<br>- Visualisasi before/after comparison |
+| 3 | **(Faisyal)Implementasi Filter Gaussian & Eksplorasi** | - Implementasi Gaussian Filter<br>- Eksplorasi parameter sigma yang berbeda<br>- Menampilkan perbandingan citra sebelum & sesudah filtering<br>- Visualisasi hasil dengan berbagai parameter | - Kode implementasi Gaussian Filter<br>- Eksperimen dengan berbagai parameter<br>- Visualisasi hasil filtering |
+| 4 | **(Jauhan)Analisis & Dokumentasi Laporan** | - Membandingkan hasil semua filter<br>- Menganalisis kelebihan & kekurangan setiap metode<br>- Membuat dokumentasi lengkap<br>- Kesimpulan dan rekomendasi | - Laporan analisis perbandingan<br>- Tabel kelebihan/kekurangan<br>- Dokumentasi hasil<br>- Kesimpulan |
 
 ## Struktur Project
 
